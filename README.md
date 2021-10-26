@@ -1,3 +1,5 @@
-# Ashraf Hossain's Notes
-# This is an H1 header (largest)
-##### This is an H6 header (smallest)
+# [Ashraf Hossain's](https://github.com/shadowbd) Notes
+## Summary
+
+##### This repository contains all of the notes taken by Ashraf Hossain for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Data Science Bootcamp.
+
